@@ -93,6 +93,12 @@ El pulsador permite interactuar con el sistema de dos maneras:
 
 ## Capturas de Pantalla
 
+![Dashboards - Grafana](https://github.com/user-attachments/assets/c1d3c001-d30f-4c28-9fc0-6af4e2cef20f)
+
+![ESP32 lcd](https://github.com/user-attachments/assets/a190ddbf-5847-4a5b-93c0-ea9ed5da7ee7)
+
+![DATOS VISUALIZADOS](https://github.com/user-attachments/assets/5123853b-5bae-4871-a6e1-def2b55571d6)
+
 Inserta aquí las capturas de pantalla relevantes del sistema en funcionamiento.
 
 ## Enlace al Video del Proyecto

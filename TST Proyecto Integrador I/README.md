@@ -104,7 +104,7 @@ Capturas de pantalla del sistema en funcionamiento.
 ## Enlace al Video del Proyecto
 
 Puedes ver el funcionamiento del sistema en el siguiente enlace:
-[Enlace al video](#).
+[[Enlace al video](https://github.com/Wleyton89/TST-Proyecto-Integrador-I/tree/main)](#).
 
 ## Contribuciones
 

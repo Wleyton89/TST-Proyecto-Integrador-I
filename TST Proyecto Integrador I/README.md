@@ -99,7 +99,7 @@ El pulsador permite interactuar con el sistema de dos maneras:
 
 ![DATOS VISUALIZADOS](https://github.com/user-attachments/assets/5123853b-5bae-4871-a6e1-def2b55571d6)
 
-Inserta aquí las capturas de pantalla relevantes del sistema en funcionamiento.
+Capturas de pantalla del sistema en funcionamiento.
 
 ## Enlace al Video del Proyecto
 
